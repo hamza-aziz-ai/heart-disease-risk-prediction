@@ -17,7 +17,7 @@ python-multipart = "*"
 pydantic = "*"
 prometheus-fastapi-instrumentator = "*"
 pandas-stubs = "~=2.3.3"
-mlflow = "==3.13.0"
+mlflow = "==3.15.0"
 
 [dev-packages]
 pytest = "*"
